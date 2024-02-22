@@ -442,6 +442,12 @@ body{
         display: block;
 
      }
+    .container section p{
+    display: flex;
+    flex-direction: column;
+    font-size: 1.5rem;
+    justify-content: center;
+}
      .mobile-menu-icon button{
         background-color: transparent;
         border: none;
