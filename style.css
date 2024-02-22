@@ -11,6 +11,12 @@ body{
     min-width: 100%;
     min-height: 100vh;
 }
+.container section p{
+    display: flex;
+    flex-direction: column;
+    font-size: 1.5rem;
+    justify-content: center;
+}
 
 .header{
     background-color: rgb(219, 89, 111);
