@@ -539,6 +539,9 @@ body{
         display: grid;
         grid-template-columns: repeat(1, fr);
     }
+    .footer{
+        max-width: 100%;
+    }
     .container-compra {
         min-height: 100vh;
         margin: 2rem;
