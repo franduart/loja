@@ -10,22 +10,6 @@ body{
     max-width: 100%;
     min-height: 100vh;
 }
-.container section {
- 
-    font-size: 1.5rem;
-    justify-content: center;
-    width: 60%;
-    text-align: center;
-    margin: 0 auto;
-}
-.container section p{
- 
-    font-size: 1.5rem;
-    justify-content: center;
-    width: 60%;
-    text-align: center;
-    margin: 0 auto;
-}
 
 .header{
     background-color: rgb(219, 89, 111);
@@ -440,6 +424,23 @@ body{
     
 }
 @media (max-width: 480px) {
+
+    .container section {
+ 
+    font-size: 1.5rem;
+    justify-content: center;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+}
+.container section p{
+ 
+    font-size: 1.5rem;
+    justify-content: center;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+}
      
     .nav-bar{
         padding: 1.5rem 4rem;
