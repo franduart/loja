@@ -424,7 +424,10 @@ body{
     
 }
 @media (max-width: 480px) {
-
+.container{
+    margin: 0 auto;
+    text-align: center;
+}
 
 .container section p{
  
