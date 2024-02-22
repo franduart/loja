@@ -445,7 +445,7 @@ body{
     .container section p{
     display: flex;
     flex-direction: column;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     justify-content: center;
 }
      .mobile-menu-icon button{
