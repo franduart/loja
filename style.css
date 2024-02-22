@@ -425,18 +425,10 @@ body{
 }
 @media (max-width: 480px) {
 
-    .container section {
- 
-    font-size: 1.5rem;
-    justify-content: center;
-    width: 60%;
-    text-align: center;
-    margin: 2rem auto;
-}
+
 .container section p{
  
     font-size: 1.5rem;
-    justify-content: center;
     width: 60%;
     text-align: center;
     margin: 0 auto;
